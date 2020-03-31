@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Action" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/AddPostAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/ApostAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/LoginAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/LogoutAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/MainBoardAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/PostAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/RegisteAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/TopicAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Action/TopicDetailAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Filters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Globe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/TopicDetail.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Topics.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/web.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/addPost.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/bbs_index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/cms_login.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/front_index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/login.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/sweetalert" charset="UTF-8" />
+  </component>
+</project>
